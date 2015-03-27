@@ -116,7 +116,6 @@ public class TVActivity extends ExpandableListActivity {
 			testPullRead();
 			mExitHandler.sendEmptyMessage(LOAD_LINK);
 		}
-		 
 	 }
 	 
 	 
