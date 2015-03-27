@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/dialog_cancle_bnt_background_my" android:state_pressed="true"><shape>
+
+            <!-- 按下按钮时的颜色 -->
+            <solid android:color="#777777" />
+        </shape></item>
+    <!--
+            <stroke android:width="2dp" android:color="#000000"/>
+            <stroke android:width="2dp" android:color="#000000" />
+            <stroke android:width="2dp" android:color="#000000" />
+
+
+    -->
+    <item android:drawable="@drawable/dialog_cancle_bnt_background_my" android:state_focused="true"><shape>
+
+            <!-- 鼠标放在上面时的颜色 -->
+            <solid android:color="#777777" />
+        </shape></item>
+    <!-- 当前颜色，即默认背景色 -->
+    <item android:drawable="@drawable/dialog_cancle_bnt_my"><shape></shape></item>
+
+</selector> <!-- 定义按钮的样式文件   现没有使用 -->

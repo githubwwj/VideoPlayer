@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/in_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#2D8FD8"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/rlgone"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:background="@drawable/main_list_bg"
+                    android:orientation="vertical" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:background="@drawable/main_list_bg1"
+                    android:orientation="vertical" >
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="4"
+                    android:background="#93469A"
+                    android:orientation="vertical" />
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="3"
+                    android:background="@drawable/main_list_bg1"
+                    android:orientation="vertical" >
+
+                    <!-- 中间的菜单 -->
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="4"
+                    android:background="#93469A"
+                    android:orientation="vertical" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/local_player"
+                    style="@style/mainmenu_button"
+                    android:text="@string/playlists_menu" />
+
+                <Button
+                    android:id="@+id/direct_broadcast"
+                    style="@style/mainmenu_button"
+                    android:layout_marginTop="14dip"
+                    android:text="@string/direction_broadcase" />
+
+                <Button
+                    android:id="@+id/love_movie"
+                    style="@style/mainmenu_button"
+                    android:layout_marginTop="14dip"
+                    android:text="@string/love_movie" />
+
+                <Button
+                    android:id="@+id/about_author"
+                    style="@style/mainmenu_button"
+                    android:layout_marginTop="14dip"
+                    android:text="@string/about_author" />
+
+
+                <Button
+                    android:id="@+id/game_over"
+                    style="@style/mainmenu_button"
+                    android:layout_marginTop="14dip"
+                    android:text="@string/app_exit" />
+                <!--  
+                <Button
+                    android:id="@+id/xiaowang_btn"
+                    android:layout_width="180dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/button_selector"
+                    android:text="我是小王播放器" />-->
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

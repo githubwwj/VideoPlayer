@@ -1,0 +1,19 @@
+{"video":
+		[
+		     {"videoNamePerson":"CCTV",
+				 "videos":[  
+								
+						 {"title":"林舒雅1", "url":"http://live.showself.com/showroom/s346915533.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background2.jpg","flags":"6"}
+						,{"title":"林舒雅2","url":"http://live.showself.com/showroom/s345295216.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background0.jpg","flags":"6"}
+						,{"title":"林舒雅3","url":"http://live.showself.com/showroom/s361117506.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background0.jpg","flags":"6"}
+						,{"title":"林舒雅4","url":"http://live.showself.com/showroom/s348759328.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background7.jpg","flags":"6"}
+						,{"title":"林舒雅5","url":"http://live.showself.com/showroom/s359282003.flv","image":"http://i0597.com/cntv/images/cctv2.gif","flags":"6"}
+						,{"title":"林舒雅6","url":"http://live.showself.com/showroom/s393109288.flv","image":"http://i0597.com/cntv/images/cctv3.gif","flags":"6"}
+						,{"title":"林舒雅7","url":"http://live.showself.com/showroom/s393109288.flv","image":"http://i0597.com/cntv/images/cctv4.gif","flags":"6"}
+						,{"title":"林舒雅8","url":"http://live.showself.com/showroom/s384294596.flv","image":"http://i0597.com/cntv/images/cctv5.gif","flags":"6"}
+						,{"title":"林舒雅9","url":"http://live.showself.com/showroom/s320077085.flv","image":"http://i0597.com/cntv/images/cctv9.gif","flags":"6"}
+						] 
+			
+				}
+		]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<WebView android:id="@+id/webview" 
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		 />
+
+	<LinearLayout 
+		android:orientation="horizontal" 
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/tw_bg"
+		android:visibility="gone"
+		android:gravity="center"
+		android:layout_weight="0"
+		>
+		<Button android:id="@+id/home" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+		    android:focusable="true" 
+			android:layout_weight="5"
+			android:text="首页"
+			 />
+			 
+		<Button android:id="@+id/movie" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="5" 
+			android:text="电影"
+		 />
+
+		<Button android:id="@+id/tv" 
+			
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="5" 
+			android:text="电视剧"
+			 />
+			
+		<Button android:id="@+id/manimation" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_weight="5"
+			android:text="推荐"
+	/>
+			
+		<Button android:id="@+id/arts" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="5" 
+			android:text="作者作品"
+			android:visibility="gone"/>
+	</LinearLayout>
+
+</LinearLayout>

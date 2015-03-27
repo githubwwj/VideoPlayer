@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="help_info">帮助信息</string>
+    <string name="app_name">小王影音</string>
+    <string name="love_movie">爱看电影</string>
+    <string name="app_isSdcard_no_msg">Your mobile phone memory card is not installed, continue?</string>
+    <string name="app_isSdcard_no">Continue to enter</string>
+    <string name="app_isSdcard_yes">Exit</string>
+    <string name="app_isSdcard_playList_msg">Your mobile phone memory card is not installed, the card can not read the paper!</string>
+    <string name="copy">复制</string>
+    <string name="app_hint_msg">请你按屏幕上的按钮！</string>
+    <string name="paste">粘贴</string>
+    <string name="is_gameover_webview">是否退出?</string>
+    <string name="rename">重命名</string>
+    <string name="plz_input_new_name">请输入名字</string>
+    <string name="confirm">确定</string>
+    <string name="name_is_not_null">名字不能为空,请输入名字后再重命名</string>
+    <string name="rename_success">重命名成功</string>
+    <string name="create_folder_success">新建文件夹成功</string>
+    <string name="create_folder_fail">新建文件夹失败</string>
+    <string name="rename_fail">重命名失败</string>
+    <string name="new_create_folder">新建文件夹</string>
+    <string name="btn">GO</string>
+    <string name="sofeware_recommend">软件推荐</string>
+    <string name="forward">前进</string>
+    <string name="back">后退</string>
+    <string name="play_comper">播放完成，是否进入【小王影音】</string>
+    <string name="VideoView_error_title">视频播放错误</string>
+    <string name="boot">启动设置</string>
+    <string name="fail_to_start_stream" msgid="3605390187703912835">"无法播放所请求的音频流。"</string>
+    <string name="streamloadingtext" msgid="3367150884806639224">"正在连接 <xliff:g id="HOST">%s</xliff:g>"</string>
+    <string name="VideoView_error_text_unknown">视频播饭错误未知</string>
+    <string name="VideoView_error_button">关闭</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">无效的进度回调</string>
+    <string name="play_to_last">朋友，播放到最后了！</string>
+    <string name="no_vide_file">没有视频文件</string>
+    <string name="list_refresh">视频列表已刷新！</string>
+    <string name="button_ok">确定</string>
+    <string name="direction_broadcase">妹妹直播</string>
+    <string name="vitamio_theme_app_name">小王播放器</string>
+    <string name="button_cancel">取消</string>
+    <string name="sd_shared">请您先退出USB模式,再运行该应用</string>
+    <string name="sd_unmounted">SD卡未加载到手机</string>
+    <string name="sd_removed">未找到SD卡</string>
+    <string name="sd_noinsert">未找到SD卡</string>
+    <string name="duration_tag">影片时长:</string>
+    <string name="init_decoders">正在解码......</string>
+    <string name="mediacontroller_play_pause">播放或者暂停</string>
+
+    <string name="rename_dialog">重命名</string>
+    <string name="confirm_deletefile">确认要删除该文件吗？</string>
+    <string name="exit_player_text">正在退出播放...</string>
+    <string name="loadvideotext">加载中，请稍候...</string>
+    <string name="about_author">关于作者</string>
+    <string name="str_about">关于</string>
+    <string name="str_feedback">意见反馈</string>
+    <string name="btn_personal_setting">个人设置</string>
+    <string name="auhor_suggest">我的作品</string>
+    <string name="author_informationHead">作者简介</string>
+    <string name="author_contact_info">我来自美丽的河南开封 \n
+		爪营乡</string>
+    <string name="author_head">		自称：\t小王\n
+		姓名：\t王文建\n
+		性别：\t公的\n
+		哪的：\t河南开封\n
+		职业：\t软件工程师\n
+		特长：\tjava、android...\n
+		爱好：\t篮球，乒乓球，羽毛球，人民币n\</string>
+    <string name="author_music_pause">暂停</string>
+    <string name="author_music_play">播放</string>
+    <string name="auhor_back">返回</string>
+    <string name="help_titl">使用说明</string>
+    <string name="help_suggest">意见反馈</string>
+    <string name="help_back">返回</string>
+    <string name="help_contact_info">哈哈，看了说明，操作更加便捷。</string>
+    <string name="str_music_name">小王音乐</string>
+    <string name="str_about_name">小王影音</string>
+    <string name="str_about_version">版本2.2</string>
+    <string name="str_company">小王作品</string>
+    <string name="str_copyright">版权所有 2013</string>
+    <string name="str_about_describe">"客服专用邮箱：wwj_computeryes@163.com\n"</string>
+    <string name="str_ikown">知道了</string>
+    <string name="setplay_for_soft">软解码</string>
+    <string name="author_body">		&#160;&#160;&#160;&#160;&#160;&#160;
+		首先感谢你来到这个界面，这说明你还是想看哈我。
+		为了不让你失望，我不得不把我写得既幽默又有内容。
+		但实在是难合众口
+		于是乎我就任着性子来了，不介意吧(*^__^*) 。\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		
+		【我和我的努力】\n
+		1、个人觉得，人生生死自然，生命短暂，每个人都完蛋，但完蛋是否会有人记住自己。
+		为了死后留名，我们就算流着鼻血都要努力，这是努力的第一个理由。\n
+		2、第一个理由不足以构成去努力的理由，其实啊，我们之所以努力，
+		其实是想让自己活得有尊严。前段时间温总里接受《时代周刊》
+		采访的时候就说：“我们（指政府）尽最大努力让所有的中国人活得有尊严”。\n
+		3、第二个努力的理由不直接，其实我们是为了活得有面子，不给父母负担，
+		在亲朋好友面前有面子。以上三个理由，是我们人类奋斗的源泉，
+		有不同看法的可以发邮件（下面有个发邮件的功能）交流交流，也让俺学学。\n&#160;&#160;&#160;&#160;&#160;&#160;
+		【我和我的理想】\n
+		1、我最想实现自己的人生价值——不想虚度此生。最想实现的梦想是有自己的公司（和朋友开那也算）。
+		2、我最想从事的职业就是：IT开发者，或者以后更加努力公司高管。
+		3、如果有和我同样梦想的朋友，可以考虑哈，我们一起创业，前提是你出钱（当然我会压上我的家当），我出力。\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【我和我的特长】\n
+		1、超快的学习速度（在保证睡眠充分的情况下）。\n
+		2、和朋友做事希望两个做得开心，不想斤斤计较，够意思呗。\n
+		3、俺会吹牛，能和不同年龄阶段的人聊天，沟通效果胜过谈判专家；
+		4、俺高中期间做程序开发，当过工人。就得很幸福。\n
+		 但因为挂科被迫甩卖告终，这足以说明我总是一心一意做一件事吧。\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		
+		【如果你是和我同梦想的朋友】\n
+		1、多交流吧，有时候在交流的冲动中学到很多东西。\n
+		2、我们都努力吧，争取做时代的先锋。\n
+		3、建议不要太累，身体要紧，我知道你很累，因为我也为梦想奔波累啊，但幸福。
+		\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【如果你是我的同学】\n
+		1、看到我的软件后给我打个电话吧，我其实很想你们，只是太忙，或者换号码后你的名单消失了。\n
+		2、其实我天天在线，但隐身，从事“地下工作”。\n
+		3、如果你们结婚了，记得告诉我一声，即使我来不了，但礼物一定到。\n
+		\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【如果你是我的家人】\n
+		1、爸爸，妈妈您辛苦了。\n
+		2、弟弟好好学习。\n
+		3、时间过得好快。\n
+		\n&#160;&#160;&#160;&#160;&#160;&#160;
+		
+		【欢迎您来邮件】\n
+		1、如果你是国家政要，来邮件的时候千万别说，我这人很怕官。\n
+		2、如果你是老板，嘻嘻，我喜欢，要我帮你做什么呢？先说说。\n
+		3、如果你是要交流技术，嘻嘻，相互进步一直是我的追求。\n
+		4、如果你对我的设计及功能发表了长达200字的建议或评论，
+		都有机会获得我第一版本的源代码，我会发到你的邮箱。\n
+		5、如果你推荐给你的1个朋友，谢谢你的支持。
+		今年你发财；如果你推荐给你的10个朋友，这一辈子你发财（其实是谢谢你的支持，发财还是靠努力的）。
+		\n&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="sharetext">\n\t\t悲伤可以自行料理；而欢乐的滋味如果要充分体会，你就必须有人分享才行。\n
+　　\t\t\t\t\t\t—— 马克·吐温</string>
+    <string name="study_enghish_describe_a">		\t\t【欢迎你学英语】 \n
+		\t\t 英语口语8000句、新概念英语\n
+		\t\t下载地址1官方网站：http://yangguangfu.iteye.com\n官方微博：http://weibo.com/321chinavideo</string>
+    <string name="help_describe_a">		插件自2.0开始，就被集成了一个小架包，第一次会自动安装，以后使用就可以了。\n</string>
+    <string name="aboutme_describe_a">	\t\t我们的目标是：移动终端最好的多媒体播放软件。\n 
+		\t\t 小王影音是android手机上功能最好、性能最好的多媒体播放软件，集视频播放、音频播放、电视直播和广播电台于一身，
+		支持几乎所有流行的视频、音频格式，它将让您的android手机变成您的掌上享乐中心！\n</string>
+    <string name="feedback_describe">		\n\t\t 小王影音是android手机上功能最多、性能最好的多媒体播放软件，集视频播放、音频播放和电视直播于一身，
+		支持几乎所有流行的视频、音频格式，它将让您的android手机变成您的掌上享乐中心！\n
+		\t\t欢迎您关注我们并将您宝贵建议反馈给我们！点击下边按钮就可以反馈您的问题！\n</string>
+    <string name="study_enghish_describe">	\t\t【欢迎你学英语？】\n有空没空的学英语还是不错的\n
+	\t\t【能学到那些英语？】\n英语口语8000句、新概念英语、至少上十多种英语，而且不断更新，请关注官方微博和官方网站上更新的消息\n
+	\t\t【怎么使用学英语功能？】\n通过互联网下载到手机，放在任何目录，即可播放学习，学习资源可以是语音类也可以是视频。\n</string>
+    <string name="help_information">		&#160;&#160;&#160;&#160;&#160;&#160;【小王播放器】是android操作系统手机上一款界面超级绚丽，
+		灵巧便捷、组织协调、设计人性化、响应敏捷的多媒体播放器。
+		【小王播放器】支持本地视频、本地音乐、网络视频、网络音乐的流畅播放。
+		让你畅游在多媒体的世界里，让你流连忘返。
+		本软件由王文建（自称：小王）利用业余时间开发，免费提供给大家使用，
+		请大家尽情享受【小王播放器】所带来的流畅播放体验吧！\n\n
+		
+		
+		&#160;&#160;&#160;&#160;&#160;&#160;【支持系版本】\n
+		1、3.0或者3.0以上版本才能使用
+		2、完美支持320×480、480×800、480×854等各种分辨率（自动识别屏幕分辨率）;\n
+		3、支持在线音频、视频播放，支持从浏览器调用【小王播放器】播放在线音频、视频；\n
+		4、自动转为横屏播放，为用户提供更好的观看体验；\n
+		5、美化了视频播放列表和操作说明的界面。\n\n
+	
+		&#160;&#160;&#160;&#160;&#160;&#160;【使用说明】\n
+		1、登陆：在屏蔽幕点击本播放器图标，将进入主界面；主界面上有六个按钮，
+		一个图标，左上角还有个版本信息按钮。\n
+		2、主界面：六个按钮分别为[播放列表]、[播放界面]、[设置]、[使用说明]、[看哈作者]、[退出]。\n
+		3、【播放列表】：单击将进入播放列表界面，在播放列表里面可以选择你喜欢的视频文件，也可以返回主界面。\n
+		4、【播放界面】：单击将进入播放界面，这界面里面可以返回主界面，上一个，播放，
+			下一个，还有调音（长按为静音，在长按反之），退出，列表(可以进入播放列表)等按钮。\n
+		5、【设置】:单击进入设置界面，可以设置按钮是否开启声音，设置语言等等。\n
+		6、【使用说明】：单击将进入使用说明界面，就看可以看到使用软件操作的大部分信息。\n
+		7、【看哈作者】：单击将进入使用看哈作者，就可以看到本软件作者的真面，还可以和作者交朋友、合作、投资等。\n
+		8、【退出】：单击将退出软件，欢迎下次使用。\n\n
+		
+		&#160;&#160;&#160;&#160;&#160;&#160;【播放界面操作】\n
+		 说明：如果你用视频在线播放，你会发现有些功能用不了了，
+		 这不是软件的问题，而是我设计这样的。在线播放的时候有效的按钮是：调音、退出这两按钮；但长安屏蔽事件还是正常。\n
+		1、全屏切换：\t双击屏幕，再次双击换回原来。\n
+		2、播放/暂停：\t长按屏幕/再长按或按播放/暂停。\n
+		3、调音/静音：\t长按调音按钮为静音，反之相反。\n
+		4、播放列表：\t单击列表按钮，便把你手机的\t\t所有视频列出来，供你选择，点击选择选择文件，将进行播放。\n
+		5、上一视频：\t单击上一个按钮，将播放上一个视频文件。\n
+		6、下一视频：\t单击下一个按钮，将播放下一个视频文件。\n\
+		7、返回主页：\t单击主页按钮，便返回主页。\n
+		8、退出：\t单击退出按钮，将弹出对话框，询问是否退出，根据提示操作是否退出。\n\n
+		
+		&#160;&#160;&#160;&#160;&#160;&#160;【网上介绍】\n
+		1、小王播放器-百度网盘     用户名:mycomputer22 密码：hellobaidu.com
+		
+		声明：本软件所使用的界面材料素材均来自于网络和朋友的修改，如果侵犯了您的合法权益
+		，如果发现和你的作品有雷同或者抄袭请联系我。请联系我，我会及时更换。
+		\n感谢您的使用！\n&#160;&#160;&#160;&#160;&#160;&#160;
+		【欢迎邮件联系】\n
+		邮件一：email:\t\t\wwwj_computeryes@163.com\n
+		
+		1、如果你是国家政要，来邮件的时候千万别说，我这人很怕官。\n
+		2、如果你是老板，嘻嘻，我喜欢，要我帮你做什么呢？先说说。\n
+		3、如果你是要交流技术，嘻嘻，相互进步一直是我的追求。\n
+		4、如果你是对我的设计及功能发表了长达200字的建议或评论，
+		都有机会获得我第一版本的源代码，我会发到你的邮箱。\n
+		5、如果你推荐给1个你的朋友，谢谢你的支持。
+		今年你发财；如果你推荐给10个你的朋友，这一辈子你发财（其实是谢谢你的支持，发财还是靠努力的）。
+		\n</string>
+    <string name="help_describe">在程序运行时会自动完成解码包的安装，
+如果手机的版本低于3.0就不能正常使用，请使用高版本的手机，性能会更好。
+	\t\t【支持哪些视频格式？】\nmp4、3gp、ts、3gpp、3g2、3gpp2、avi、mkv、flv、divx、f4v、rm、rmvb、rv、wmv、asf、mov、mpg、v8、ram、mpeg、swf、m2v、asx、ra、ram、ndivx、xvid等几乎所有主流的视频格式；\n
+   \t\t【支持哪些流媒体格式？】\nMMS \nRTSP (RTP, SDP) \nHTTP progressive streaming \nHTTP live streaming (M3U8), for Android 2.1以上系统 \n
+	
+欢迎您关注我们并将您宝贵建议反馈给我们\n
+电子邮件：wwj_computeryes@163.com \n
+官方QQ群用户交流1：150864794\n
+官方QQ群用户交流2：226756451\n
+官方QQ群技术交流：63932554\n</string>
+    <string name="aboutme_describe">	\t\t我们的目标是：移动终端最好的多媒体播放软件！\n
+	
+\t\t321影音是android手机上功能最多、性能最好的多媒体播放软件，集视频播放、音频播放、电视直播、广播电台于一身，
+支持几乎所有流行的视频、音频格式，它将让您的android手机变成您的掌上享乐中心！\n
+
+
+【产品特点】\n
+1.电视直播，支持CCTV-1,CCTV-2....CCTV-13,湖南卫视、浙江卫视、江苏卫视全国以世界各地共400多个电视台；\n
+2.广播电台，支持中央电台经济之声,中央电台音乐之声....全国以世界各地共400多个广播电台台；\n
+3.最强大，Android 平台上最好的视频播放器，没有之一。无需转换，直接将PC上的视频复制到手机中就可以随时随地观赏;\n
+4. 最牛逼，支持mp4、3gp、ts、3gpp、3g2、3gpp2、avi、mkv、flv、divx、f4v、rm、rmvb、rv、wmv、asf、mov、mpg、v8、ram、mpeg、swf、m2v、asx、ra、ram、ndivx、xvid等几乎所有主流的视频格式;\n
+5. 听音乐，支持mp3、ogg、wma、mid、m4a、xmf、aac、mpa、midi、ar等几乎所有主流的音频格式;\n
+6.电视直播，支持CCTV-1,CCTV-2....CCTV-13,湖南卫视、浙江卫视、江苏卫视全国30多个电视台;\n
+7. 最绚丽，支持歌词同步，支持内嵌歌词解析、lrc歌词解析文件并同步播放、txt歌词文件解析并同步播放，只需你的歌词文件和音频文件一样名字（例如，伤不起.mp3和伤不起.lrc或者伤不起.mp3和伤不起.txt）就可以超酷的歌词同步;\n
+8. 最独创，智能切换软硬解码、一键切换软硬解码;\n
+9. 超快速，顺畅播放，本地视频拖动瞬间缓冲;\n
+10. 特高清，支持高达720p高清视频播放;\n
+11. 全功能，在线与本地高度结合;\n
+12. 最方便，播放同一文件，快速定位到上次播放的位置;\n
+13. 流媒体，支持m3u8、HTTP、RTSP、MMS 等主流流媒体格式，可以配合优酷、土豆、pptv、天天浏览器、海豚浏览器等内容提供商使用;\n\n
+
+欢迎您关注我们并将您宝贵建议反馈给我们\n
+官方QQ群用户交流1：150864794\n
+官方QQ群用户交流2：226756451\n
+官方QQ群技术交流：63932554\n</string>
+
+    <string name="scanning" msgid="3529383847223198502">"正在扫描 SD 卡..."</string>
+    <string name="nowplaying_title" msgid="8342523844307751761">"正在播放"</string>
+    <string name="partyshuffle_title" msgid="6582413231529992125">"派对随机播放"</string>
+    <string name="artists_title" msgid="8490372367259160067">&quot;艺人&quot;</string>
+    <string name="albums_menu" msgid="5807982055590211900">"专辑"</string>
+    <string name="albums_title" msgid="8773880394961378035">"专辑"</string>
+    <string name="tracks_menu" msgid="6942246568246092330">"歌曲"</string>
+    <string name="tracks_title" msgid="3229389424532295124">&quot;全部歌曲&quot;</string>
+    <string name="playlists_menu" msgid="5382792649771928849">本土播放</string>
+    <string name="playlists_title" msgid="5094238486322957927">&quot;我的最爱&quot;</string>
+    <string name="videos_title" msgid="2066741954354129115">"视频"</string>
+    <string name="all_title" msgid="6880186414437237653">"所有媒体"</string>
+    <string name="browse_menu" msgid="5248122473075843289">"艺术家"</string>
+    <string name="search_title" msgid="1016971653383739344">"搜索"</string>
+    <string name="no_tracks_title" msgid="8805805388271238471">"无歌曲"</string>
+    <string name="no_videos_title" msgid="6218814130364793104">"无视频"</string>
+    <string name="no_playlists_title" msgid="4456351945617594418">"无播放列表"</string>
+    <string name="delete_playlist_menu" msgid="8998637685583495247">"删除"</string>
+    <string name="edit_playlist_menu" msgid="571618502105370684">"编辑"</string>
+    <string name="rename_playlist_menu" msgid="3133463747389494668">"重命名"</string>
+    <string name="playlist_deleted_message" msgid="9008053828193961455">"播放列表已删除。"</string>
+    <string name="playlist_renamed_message" msgid="7187580192703005990">"播放列表已重命名。"</string>
+    <string name="recentlyadded" msgid="110978416756366953">"最近添加的歌曲"</string>
+    <string name="recentlyadded_title" msgid="3153322287249901914">"新增歌曲"</string>
+    <string name="podcasts_listitem" msgid="8657809279717670634">"播客"</string>
+    <string name="podcasts_title" msgid="4928414142496858304">"播客"</string>
+    <string name="sdcard_missing_title" msgid="9008284946643270850">"无 SD 卡"</string>
+    <string name="sdcard_missing_message" msgid="1169260755336159747">"手机中未插入 SD 卡。"</string>
+    <string name="sdcard_busy_title" msgid="1162763571147174655">"SD 卡不可用"</string>
+    <string name="sdcard_busy_message" msgid="8071868348072728830">"抱歉，SD 卡正忙。"</string>
+    <string name="sdcard_error_title" msgid="165682155008600643">"SD 卡错误"</string>
+    <string name="sdcard_error_message" msgid="4574563894036627855">"SD 卡出现错误。"</string>
+    <string name="unknown_artist_name" msgid="5567811106415855219">"未知艺术家"</string>
+    <string name="unknown_album_name" msgid="8525145988941244727">"未知专辑"</string>
+    <string name="shuffle_on_notif" msgid="5453708337808483943">"随机播放已打开。"</string>
+    <string name="shuffle_off_notif" msgid="4251189610017886263">"随机播放已关闭。"</string>
+    <string name="repeat_off_notif" msgid="1149406899083479716">"重复播放已关闭。"</string>
+
+    <string name="app_exit">退出</string>
+
+
+
+</resources>

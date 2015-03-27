@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item><shape>
+            <gradient android:angle="180" android:endColor="#C0D8EB" android:centerColor="#275AA6"      android:startColor="#C0D8EB" />
+		
+            <corners android:radius="50dp" />
+
+            <padding android:bottom="1dp" android:left="30dp" android:right="30dp" android:top="1dp" />
+        </shape></item>
+
+</selector> <!-- 定义按钮的样式文件   现没有使用7D9EC0 -->
