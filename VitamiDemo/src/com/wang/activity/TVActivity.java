@@ -120,7 +120,6 @@ public class TVActivity extends ExpandableListActivity {
 	 }
 	 
 	 
-	 
 	 private OnClickListener listener = new OnClickListener() { 
 			public void onClick(View view) {
 				int id = view.getId();
