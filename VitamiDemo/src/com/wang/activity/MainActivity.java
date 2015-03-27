@@ -16,9 +16,8 @@ import android.widget.RelativeLayout;
 
 public class MainActivity extends Activity implements View.OnClickListener{
 
-	/*
-	 * 打开本地播放列表
-	 */
+
+	
 	private Button localPlayerVA;
 	private Button direct_broadcast;
 	private Button love_movie;
@@ -73,18 +72,11 @@ public class MainActivity extends Activity implements View.OnClickListener{
 		Intent mIntent = new Intent();
 		switch (v.getId()) {
 		case R.id.local_player:
-//			mIntent.setClassName(MainActivity.this,"io.vov.vitamio.demo.VideoViewDemo");
-//			mIntent.setDataAndType(Uri.parse("file:///sdcard/视频/异步加载2+apk图标.avi"), "video/*");
-//			mIntent.setDataAndType(Uri.parse("file:///sdcard/Movies/6.afternoon.avi"), "video/*");
-//			mIntent.setDataAndType(Uri.parse("http://cntv.itv.doplive.com.cn/live591/index_128k.m3u8"), "video/*");
-		
-//			mIntent.setDataAndType(Uri.parse(""), "video/*");
 			mIntent.setClass(MainActivity.this, VideoPlayList.class);
 			startActivity(mIntent);
 			overridePendingTransition(R.anim.backzoomin, R.anim.backzoomout);
 			break;
 		case R.id.direct_broadcast:
-//			mIntent.setClass(MainActivity.this, TVNormalActivity.class);
 			mIntent.setClass(MainActivity.this, TVActivity.class);
 			startActivity(mIntent);
 			overridePendingTransition(R.anim.backzoomin, R.anim.backzoomout);
@@ -133,7 +125,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
 	protected void onDestroy() {
 		super.onDestroy();
 	}
-
 
 
    
