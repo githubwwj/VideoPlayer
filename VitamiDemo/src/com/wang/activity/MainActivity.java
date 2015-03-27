@@ -71,9 +71,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
 	@Override
 	public void onClick(View v) {
 		Intent mIntent = new Intent();
-//		Animation animation=new AlphaAnimation(1.0f, 0.2f);
-//		animation.setDuration(500);
-//		v.startAnimation(animation);
 		switch (v.getId()) {
 		case R.id.local_player:
 //			mIntent.setClassName(MainActivity.this,"io.vov.vitamio.demo.VideoViewDemo");
