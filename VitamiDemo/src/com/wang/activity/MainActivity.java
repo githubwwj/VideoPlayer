@@ -87,7 +87,8 @@ public class MainActivity extends Activity implements View.OnClickListener{
 			overridePendingTransition(R.anim.backzoomin, R.anim.backzoomout);
 			break;
 		case R.id.direct_broadcast:
-			mIntent.setClass(MainActivity.this, TVNormalActivity.class);
+//			mIntent.setClass(MainActivity.this, TVNormalActivity.class);
+			mIntent.setClass(MainActivity.this, TVActivity.class);
 			startActivity(mIntent);
 			overridePendingTransition(R.anim.backzoomin, R.anim.backzoomout);
 			break;

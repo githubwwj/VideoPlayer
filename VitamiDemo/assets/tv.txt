@@ -3,7 +3,7 @@
 		     {"videoNamePerson":"CCTV",
 				 "videos":[  
 								
-						 {"title":"林舒雅1", "url":"http://live.showself.com/showroom/s346915533.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background2.jpg","flags":"6"}
+						 {"title":"林舒雅1", "url":"http://live.showself.com/showroom/s323335925.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background2.jpg","flags":"6"}
 						,{"title":"林舒雅2","url":"http://live.showself.com/showroom/s345295216.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background0.jpg","flags":"6"}
 						,{"title":"林舒雅3","url":"http://live.showself.com/showroom/s361117506.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background0.jpg","flags":"6"}
 						,{"title":"林舒雅4","url":"http://live.showself.com/showroom/s348759328.flv","image":"http://pics.showself.com/upload_pics/operation/shall/bg/background7.jpg","flags":"6"}

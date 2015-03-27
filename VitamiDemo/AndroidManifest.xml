@@ -39,6 +39,13 @@
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar" >
         </activity>
+         <activity
+            android:name="com.wang.activity.TVActivity"
+            android:configChanges="keyboardHidden|orientation|locale"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        
         <activity
             android:name="com.wang.activity.VideoPlayList"
             android:configChanges="keyboardHidden|orientation|locale"
